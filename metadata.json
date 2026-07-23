@@ -1,0 +1,6 @@
+{
+  "name": "EcoTwin AI",
+  "description": "Enterprise AI Digital Twin Platform for urban climate scenarios, environmental impact prediction, and industrial sustainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
